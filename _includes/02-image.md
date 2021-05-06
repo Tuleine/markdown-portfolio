@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Nature](http://www.thewowstyle.com/wp-content/uploads/2015/01/nature-image.jpg)
