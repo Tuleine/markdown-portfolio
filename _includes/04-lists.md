@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Sushi
+* Honey glazed salmon 
+* Chipotle bowl
+* Pizza
+  * Cheese
+  * Vegi
+ 
